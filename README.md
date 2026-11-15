@@ -34,7 +34,7 @@ Gemini-Agent-MCP/
 - Gemini API key
 ### Setup
 ```bash
-git clone https://github.com/Dr-Aniekan-Udo/Gemini-Agent-MCP.git
+git clone https://github.com/aniekanudo-MD/Gemini-Agent-MCP.git
 cd Gemini-Agent-MCP
 uv venv && .venv\Scripts\activate
 uv sync
